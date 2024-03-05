@@ -1,3 +1,3 @@
-# Tic Tac Tow game
+# Tic Tac Toe game
 
 in python
